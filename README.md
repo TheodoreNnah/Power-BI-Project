@@ -12,6 +12,8 @@
 ### Project Overview
 Aimed at finding out some key insights about data professionals in their job roles around the world.
 
+---
+
 ### Tools 
 
 - Excel - Data Examination/Preparation [Download data]()
