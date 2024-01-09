@@ -7,6 +7,7 @@
 - [Data Analysis](#data-analysis)
 - [Analysis Presentation](#analysis-presentation)
 - [Results of Findings](#results-of-findings)
+- [Reference](#reference)
 
 
 ### Project Overview
@@ -51,5 +52,9 @@ Below is the dashboard of the findings:
 3. Most data Professionals voted Python as their favourite programming language, followed by R and others.
 4. 24.8% of professionals say it was difficult to break into data. 21.3% say it was easy, 42.7% say it was neither easy nor difficult breaking into data.
 5. More than average of professionals were happy with work liofe balance, while less than avearage were happy bwith salary earned on the role.
+
+### Reference
+
+Youtube - Power BI Final Project by Alex Freberg
 
 
