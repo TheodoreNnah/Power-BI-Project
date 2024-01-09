@@ -6,7 +6,7 @@
 - [Data Cleaning/Transformation](#data-cleaningtransformation)
 - [Data Analysis](#data-analysis)
 - [Analysis Presentation](#analysis-presentation)
-- [Results of Findings](results-of-findngs)
+- [Results of Findings](resultsoffindngs)
 
 
 ### Project Overview
